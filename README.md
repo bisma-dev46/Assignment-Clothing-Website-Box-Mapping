@@ -1,13 +1,6 @@
 Assignment 2 – Box Mapping
+Name: Bisma Ashfaq
 
-Student Information
-
-- Name: Bisma Ashfaq
-- Subject: HTML & CSS
-- Assignment: Box Mapping
-- University: Riphah International University
-
----
 
 SECTION 1: NAVBAR
 
