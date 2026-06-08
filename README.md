@@ -1,33 +1,36 @@
-# Assignment-Clothing-Website-Box-Mapping
 Assignment 2 – Box Mapping
- Name: Bisma Ashfaq
 
+Student Information
 
+- Name: Bisma Ashfaq
+- Subject: HTML & CSS
+- Assignment: Box Mapping
+- University: Riphah International University
 
+---
 
 SECTION 1: NAVBAR
 
 1. Screenshot
-   "Navbar" (images/navbar.png)
 
-   
+"Navbar" (images/navbar.png)
 
-3. Parent Child Hierarchy
+2. Parent Child Hierarchy
 
-Box Name        HTML Tag              Description
-Navbar           "<nav>"           Main navigation container
-Logo           "<div>" / "<a>"       Website logo
-Menu Links       "<ul>"              Navigation menu
-Search Bar        "<input>"            Search field
-> CTA Button     "<button>"           Action button
+Box Name| HTML Tag| Description
+Navbar| "<nav>"| Main navigation container
+Logo| "<div>" / "<a>"| Website logo
+Menu Links| "<ul>"| Navigation menu
+Search Bar| "<input>"| Search field
+CTA Button| "<button>"| Action button
 
 3. CSS Properties
 
-Property                                Purpose
-display:flex                         Horizontal layout
-justify-content                     Space between items
-align-items                           Vertical alignment
-gap                                Space between elements
+Property| Purpose
+display:flex| Horizontal layout
+justify-content| Space between items
+align-items| Vertical alignment
+gap| Space between elements
 
 ---
 
@@ -39,13 +42,13 @@ SECTION 2: HERO SECTION
 
 2. Parent Child Hierarchy
 
-Box Name                 HTML Tag
-Hero Section              "<section>"
-Hero Image                   "<div>"
-Hero Content                  "<div>"
-Heading                        "<h1>"
-Paragraph                       "<p>"
-Button                      "<button>"
+Box Name| HTML Tag
+Hero Section| "<section>"
+Hero Image| "<div>"
+Hero Content| "<div>"
+Heading| "<h1>"
+Paragraph| "<p>"
+Button| "<button>"
 
 3. CSS Properties
 
@@ -251,19 +254,7 @@ background| Footer background
 
 Conclusion
 
-strategy                    used where                              key properties
-Flexbox                  Navbar, Hero content                   display:flex; justify-content:space-between; alignitems:center; gap:24px;
-                          ,Newsletter form, Testimonials         display:grid; grid-template-columns:repeat(2,1fr);gap:20px;
-  
-position Absolute        hero text overlay on                   parent: position:relative; child: position:absolute;
-                         background image                                          top:50%; transform:translate(-50%,-50%);
-                                                                  Box Model All sections — spacing control padding: 60px 40px; margin: 0 auto; box-sizing: 
-                                                                     border-box;
-object-fit:cover      All images (product, news,                     img { width:100%; height:250px; object-fit:cover; }
-                             collection)                                                                 
- 
- 
- This assignment helped in understanding:
+This assignment helped in understanding:
 
 - HTML Semantic Tags
 - Parent Child Hierarchy
@@ -273,3 +264,6 @@ object-fit:cover      All images (product, news,                     img { width
 - Box Model
 - Responsive Layout Concepts
 
+Submitted By
+
+Bisma Ashfaq
