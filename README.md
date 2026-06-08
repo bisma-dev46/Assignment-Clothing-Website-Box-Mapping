@@ -6,8 +6,7 @@ SECTION 1: NAVBAR
 
 1. Screenshot
 
-"Navbar" (images/navbar.png)
-
+![Navbar](images/navbar.png)
 2. Parent Child Hierarchy
 
 Box Name| HTML Tag| Description
