@@ -6,7 +6,7 @@ SECTION 1: NAVBAR
 
 1. Screenshot
 
-![Navbar](images/navbar.png)
+![Navbar](images/navbar.png.jpeg)
 2. Parent Child Hierarchy
 
 Box Name| HTML Tag| Description
@@ -30,7 +30,7 @@ SECTION 2: HERO SECTION
 
 1. Screenshot
 
-"Hero" (images/hero.png)
+![Hero](images/hero.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -56,8 +56,7 @@ SECTION 3: ABOUT US
 
 1. Screenshot
 
-"About Us" (images/about.png)
-
+![About](images/about.png.jpeg)
 2. Parent Child Hierarchy
 
 Box Name| HTML Tag
@@ -83,7 +82,7 @@ SECTION 4: FEATURES
 
 1. Screenshot
 
-"Features" (images/features.png)
+![Features](images/features.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -107,7 +106,7 @@ SECTION 5: PRODUCTS
 
 1. Screenshot
 
-"Products" (images/products.png)
+![Products](images/products.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -133,7 +132,7 @@ SECTION 6: NEWSLETTER
 
 1. Screenshot
 
-"Newsletter" (images/newsletter.png)
+![Newsletter](images/newsletter.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -156,7 +155,7 @@ SECTION 7: LATEST NEWS
 
 1. Screenshot
 
-"Latest News" (images/news.png)
+![Latest](images/latest.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -179,7 +178,7 @@ SECTION 8: COLLECTION
 
 1. Screenshot
 
-"Collection" (images/collection.png)
+![Collection](images/collection.png.jpeg)
 
 2. Parent Child Hierarchy
 
@@ -202,8 +201,7 @@ SECTION 9: TESTIMONIALS
 
 1. Screenshot
 
-"Testimonials" (images/testimonials.png)
-
+![Testimonials](images/testtimonials.png.jpeg)
 2. Parent Child Hierarchy
 
 Box Name| HTML Tag
@@ -224,8 +222,7 @@ SECTION 10: FOOTER
 
 1. Screenshot
 
-"Footer" (images/footer.png)
-
+![Footer](images/footer.png.jpeg)
 2. Parent Child Hierarchy
 
 Box Name| HTML Tag
